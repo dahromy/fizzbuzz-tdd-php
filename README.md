@@ -32,9 +32,8 @@ Ce projet est réalisé avec [PHP][1] >= 7.4
 
 1. PHP 7.4 ou plus;
 2. Composer
-3. PDO-MySQL PHP extension enabled;
-4. Cloner ce projet: `git clone https://github.com/dahromy/fizzbuzz-tdd-php fizzbuzz`
-5. Déplacer vers le dossier du projet: `cd fizzbuzz`
+3. Cloner ce projet: `git clone https://github.com/dahromy/fizzbuzz-tdd-php fizzbuzz`
+4. Déplacer vers le dossier du projet: `cd fizzbuzz`
 
 ### 🔥 Exécution de l'application
 
