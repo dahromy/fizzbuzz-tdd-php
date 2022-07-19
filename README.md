@@ -26,7 +26,7 @@ Pour les multiples de 3, remplacez le nombre par "Fizz". <br />
 
 ## 🚀 Configuration de l'environnement
 
-Ce projet est réalisé avec [PHP][1] >= 4.
+Ce projet est réalisé avec [PHP][1] >= 7.4
 
 ### 🐳 Outils nécessaires
 
