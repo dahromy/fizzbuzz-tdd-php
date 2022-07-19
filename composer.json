@@ -1,0 +1,21 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^1.21",
+        "spatie/phpunit-watcher": "^1.23"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "autoload": {
+        "psr-4"  : {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4"  : {
+            "App\\Test\\": "tests/"
+        }
+    }
+}
