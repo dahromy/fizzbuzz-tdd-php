@@ -1,4 +1,13 @@
 {
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Roméo Razafindrakoto",
+            "email": "romeorazaf@gmail.com",
+            "homepage": "https://dahromy.me",
+            "role": "Developer"
+        }
+    ],
     "require-dev": {
         "pestphp/pest": "^1.21",
         "spatie/phpunit-watcher": "^1.23"
