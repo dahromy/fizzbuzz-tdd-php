@@ -13,6 +13,9 @@
             "App\\": "src/"
         }
     },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    },
     "autoload-dev": {
         "psr-4"  : {
             "App\\Test\\": "tests/"
