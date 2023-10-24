@@ -5,6 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/dahromy"><img src="https://img.shields.io/badge/dahromy-OS-green.svg?style=flat-square" alt="dahromy"/></a>
+    <a href="https://github.com/dahromy/fizzbuzz-tdd-php/actions/workflows/php.yml"><img src="https://github.com/dahromy/fizzbuzz-tdd-php/actions/workflows/php.yml/badge.svg" alt="Workflow status badge"/></a>
 </p>
 
 <p align="center">
